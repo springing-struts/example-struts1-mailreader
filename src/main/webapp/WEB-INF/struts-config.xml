@@ -118,10 +118,10 @@
                     name="Success"
                     path="/Welcome.jsp"/>
         </action>
-        <!-- Display welcome page -->
+        <!-- Display welcome page
         <action
                 path="/Welcome"
-                forward="/Welcome.jsp"/>
+                forward="/Welcome.jsp"/> -->
 
         <!-- Change locale action -->
         <action
