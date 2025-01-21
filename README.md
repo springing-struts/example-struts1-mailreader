@@ -17,4 +17,4 @@ How to run
 
 - Open the following URL with your browser.
 
-  http://localhost:8080/struts-mailreader/
+  http://localhost:8080/
